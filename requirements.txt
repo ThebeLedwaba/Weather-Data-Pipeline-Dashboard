@@ -1,0 +1,3 @@
+fastapi
+pandas
+psycopg2-binary
